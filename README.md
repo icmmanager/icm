@@ -1,10 +1,4 @@
-![MapOS](https://raw.githubusercontent.com/RamonSilva20/mapos/master/assets/img/logo.png)
-
-#### _Versão 3.1.11_ | Nova versão em desenvolvimento - Sugestões no Issue #37
-
-MapOS é um sistema gratuito para de controle de ordens de serviço. 
-Para mais informações visite __[sistemamapos.esy.es](https://www.sistemamapos.esy.es)__ 
-ou acesse a __[demo](https://www.sistemamapos.esy.es/mapos)__.  
+#### _Versão 3.1.11_ | Nova versão em desenvolvimento 
 
 ### Instalação
 
@@ -34,6 +28,3 @@ ou acesse a __[demo](https://www.sistemamapos.esy.es/mapos)__.
 * PHP >= 5.4.0 < 7.1
 * Extensão Mcrypt
 * MySQL
-
-### Créditos
-* Ramon Silva - silva018-mg@yahoo.com.br
